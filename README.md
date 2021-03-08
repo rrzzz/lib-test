@@ -1,0 +1,2 @@
+# lib-test
+submodule sub
